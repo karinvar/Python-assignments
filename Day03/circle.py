@@ -24,4 +24,4 @@ else:
 
 # Calculate and print the area
 print("The area of the circle is:", area(radius))
-
+print("hello world")
