@@ -11,4 +11,4 @@ day03 folder contains 4 files: rectangle.py, circle.py, day3.ipynb and dilution_
 day04 folder contains 2 files: number_guessing_game.py and assignment-t-test.ipynb.
 
 - **Day 5**:
-day05 folder contains 5 files: seq.py, a_seq.txt, b_seq.txt, patient_data.cvs and Datasets.ipynb.
+day05 folder contains 6 files: seq.py, test_seq.py, a_seq.txt, b_seq.txt, patient_data.cvs and Datasets.ipynb.
