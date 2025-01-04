@@ -14,4 +14,4 @@ day04 folder contains 2 files: number_guessing_game.py and assignment-t-test.ipy
 day05 folder contains 6 files: seq.py, test_seq.py, a_seq.txt, b_seq.txt, patient_data.cvs and Datasets.ipynb.
 
 - **Day 8**:
-- day08 folder contains 1 file: number_guessing2.py.
+day08 folder contains 1 file: number_guessing2.py.
