@@ -15,3 +15,6 @@ day05 folder contains 6 files: seq.py, test_seq.py, a_seq.txt, b_seq.txt, patien
 
 - **Day 8**:
 day08 folder contains 1 file: number_guessing2.py.
+
+- **Day 9**:
+- day09 folder contains 3 files: example.fasta, readme.md, analyze.py.
